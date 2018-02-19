@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/code-corgi/blog-nodejs-mailchimp/issues"
   },
-  "homepage": "https://github.com/code-corgi/blog-nodejs-mailchimp#readme"
+  "homepage": "https://github.com/code-corgi/blog-nodejs-mailchimp#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mailchimp-api-v3": "^1.8.0"
+  }
 }
