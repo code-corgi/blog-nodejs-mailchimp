@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-mailchimp-example",
+  "version": "1.0.0",
+  "description": "Sample application to show how to add subscribers to a MC list using nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-corgi/blog-nodejs-mailchimp.git"
+  },
+  "keywords": [
+    "mailchimp",
+    "expressjs",
+    "tutorial"
+  ],
+  "author": "code-corgi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/code-corgi/blog-nodejs-mailchimp/issues"
+  },
+  "homepage": "https://github.com/code-corgi/blog-nodejs-mailchimp#readme"
+}
