@@ -19,6 +19,9 @@ For more information on the mailchimp api check out the official Mailchimp
 [documentation](https://developer.mailchimp.com/documentation/mailchimp/guides/an-introduction-to-rest/),
 or in the documentation for the [API wrapper](https://www.npmjs.com/package/mailchimp-api-v3) we're using.
 
+Checkout the code on this commit to see exactly what you need
+[e0283b6](https://github.com/code-corgi/blog-nodejs-mailchimp/commit/e0283b6bac04d0ad63d033b10e2a9671978599d6).
+
 ### Find your API Key
 
 To find or generate an API Key go to your account settings > Api Keys, as described
